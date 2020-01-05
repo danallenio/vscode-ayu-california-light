@@ -1,0 +1,21 @@
+{
+    "name": "ayu-california-light",
+    "displayName": "Ayu California Light",
+    "description": "Ayu light adaptation to match MacOS",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ayu California Light",
+                "uiTheme": "vs",
+                "path": "./themes/Ayu California Light-color-theme.json"
+            }
+        ]
+    }
+}
